@@ -36,7 +36,7 @@ const Welcome = ({ navigation }) => {
                     Welcome to
                 </Text>
                 <Text style={{ marginTop: SIZES.base, ...FONTS.h1 }}>
-                    Margaret
+                    Food Share
                 </Text>
             </View>
 

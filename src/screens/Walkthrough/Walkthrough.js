@@ -4,12 +4,13 @@ import {
     Text
 } from 'react-native';
 
+import { TextButton } from '../../components';
+import { COLORS, FONTS, SIZES, constants } from '../../constants'
+
 const Walkthrough = () => {
     return (
         <View>
-            <Text>
-                Walkthrough
-             </Text>
+           
         </View>
     )
 }
